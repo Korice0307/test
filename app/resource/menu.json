@@ -1,0 +1,28 @@
+{
+    "php": [
+        {
+            "menu": "type",
+            "name": "型態"
+        },
+        {
+            "menu": "operator",
+            "name": "運算符"
+        },
+        {
+            "menu": "loop",
+            "name": "迴圈"
+        },
+        {
+            "menu": "ifelse",
+            "name": "條件式"
+        },
+        {
+            "menu": "function",
+            "name": "函式"
+        },
+        {
+            "menu": "process_control",
+            "name": "流程控制"
+        }
+    ]
+}
